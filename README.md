@@ -73,21 +73,6 @@ npx vitest run
 ### 3. **ผลลัพธ์ unit tests**
 
 <img width="528" height="544" alt="Image" src="https://github.com/user-attachments/assets/b837df1e-5e36-414e-80f8-251399657b95" />
-
-```bash
- ✓ test/merge.test.ts (6)
-   ✓ merge (6)
-     ✓ merges three sorted arrays correctly
-     ✓ handles empty arrays
-     ✓ handles duplicates and negatives
-     ✓ handles collection_3 with a single value
-     ✓ handles a and b with same values
-     ✓ handles full consecutive sequence
-
- Test Files  1 passed (1)
-      Tests  6 passed (6)
-   Start at  23:30:34
-   Duration  570ms (transform 77ms, setup 0ms, collect 66ms, tests 7ms, environment 0ms, prepare 136ms)
-```
+<img width="750" height="247" alt="Image" src="https://github.com/user-attachments/assets/d6401abb-6c15-4bc5-99e1-88e758d8f736" />
 
 💡 **Note:** โปรเจ็กต์นี้เป็นแบบทดสอบการแก้ปัญหา **Merge Sorted Arrays** ด้วยภาษา TypeScript
