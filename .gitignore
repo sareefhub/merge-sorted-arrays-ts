@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Output from TypeScript build
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Vitest cache (optional)
+coverage/
+.vitest/

@@ -1,0 +1,11 @@
+{
+  "name": "merge-sorted-arrays-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^0.34.0"
+  }
+}
