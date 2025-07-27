@@ -72,6 +72,8 @@ npx vitest run
 
 ### 3. **ผลลัพธ์ unit tests**
 
+<img width="528" height="544" alt="Image" src="https://github.com/user-attachments/assets/b837df1e-5e36-414e-80f8-251399657b95" />
+
 ```bash
  ✓ test/merge.test.ts (6)
    ✓ merge (6)
@@ -87,6 +89,5 @@ npx vitest run
    Start at  23:30:34
    Duration  570ms (transform 77ms, setup 0ms, collect 66ms, tests 7ms, environment 0ms, prepare 136ms)
 ```
-
 
 💡 **Note:** โปรเจ็กต์นี้เป็นแบบทดสอบการแก้ปัญหา **Merge Sorted Arrays** ด้วยภาษา TypeScript
